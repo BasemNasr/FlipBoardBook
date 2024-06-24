@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.coil-kt:coil-compose:2.6.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/63bdbb699200b8ff856d8ef15db5a043/transformed/coil-compose-2.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/63bdbb699200b8ff856d8ef15db5a043/transformed/coil-compose-2.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.coil-kt/coil-compose/2.6.0/1b7306704cfc5d1f564ba6958ec940075c34f607/coil-compose-2.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.coil-kt/coil-compose/2.6.0/1baa363068477a97ae1afd6879892dad14b690f8/coil-compose-2.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
